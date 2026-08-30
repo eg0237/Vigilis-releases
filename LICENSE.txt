@@ -1,0 +1,75 @@
+LICENCE D'UTILISATION GRATUITE
+Vigilis, Referis et Assigna
+© 2026 Emmanuel GAILLARD. Tous droits réservés.
+
+1. OBJET
+
+La présente licence régit les conditions d'utilisation des logiciels Vigilis,
+Referis et Assigna (ci-après « les Logiciels »), édités et développés par
+Emmanuel GAILLARD (ci-après « l'Auteur »), en dehors de tout cadre
+professionnel et de tout temps de travail.
+
+L'Auteur est seul titulaire de l'intégralité des droits de propriété
+intellectuelle attachés aux Logiciels, notamment le code source, les
+exécutables, la documentation, les noms et toute création dérivée.
+
+2. CONCESSION D'USAGE
+
+L'Auteur concède à titre gratuit, non exclusif et non transférable, un droit
+d'utilisation des Logiciels à toute personne appartenant à la communauté de
+l'Éducation nationale française (personnels enseignants, administratifs, de
+direction, de vie scolaire, ou tout autre agent d'un établissement relevant
+de l'Éducation nationale), dans le cadre de son activité professionnelle.
+
+Cette concession n'emporte aucun transfert de propriété ni aucune cession de
+droit sur les Logiciels.
+
+3. INTERDICTIONS
+
+Sauf autorisation écrite préalable de l'Auteur, l'utilisateur s'interdit de :
+
+  - redistribuer, publier, louer, prêter, vendre ou céder les Logiciels à un
+    tiers, à titre gratuit ou onéreux ;
+  - modifier, adapter, traduire ou créer une œuvre dérivée des Logiciels ;
+  - décompiler, désassembler ou procéder à toute forme d'ingénierie inverse
+    des Logiciels, sauf dans les cas où cette interdiction serait contraire
+    à une disposition légale impérative ;
+  - supprimer, masquer ou altérer les mentions de copyright, de propriété
+    ou d'identification de l'Auteur figurant dans les Logiciels ;
+  - utiliser le nom de l'Auteur ou les noms des Logiciels à des fins
+    commerciales ou promotionnelles sans son accord.
+
+4. RÉVOCATION
+
+L'Auteur se réserve le droit de révoquer, à tout moment et sans préavis, le
+droit d'utilisation concédé au titre de l'article 2, notamment en cas de
+non-respect de la présente licence, ou pour tout autre motif à sa
+discrétion, y compris un changement de modèle de distribution ou de
+licence des Logiciels.
+
+En cas de révocation, l'utilisateur s'engage à cesser toute utilisation des
+Logiciels et à en supprimer toute copie en sa possession.
+
+5. ABSENCE DE GARANTIE ET LIMITATION DE RESPONSABILITÉ
+
+Les Logiciels sont fournis « en l'état », sans garantie d'aucune sorte,
+explicite ou implicite, notamment sans garantie de fonctionnement continu,
+d'absence d'erreurs ou d'adéquation à un usage particulier.
+
+L'Auteur ne pourra être tenu responsable d'aucun dommage direct ou indirect
+résultant de l'utilisation ou de l'impossibilité d'utiliser les Logiciels,
+y compris en cas de perte de données.
+
+6. ÉVOLUTION DE LA LICENCE
+
+L'Auteur se réserve le droit de faire évoluer les termes de la présente
+licence, ou de proposer les Logiciels sous un autre modèle de distribution
+ou de licence, pour les versions futures. Les versions déjà distribuées
+restent soumises à la licence en vigueur au moment de leur téléchargement,
+sauf révocation notifiée conformément à l'article 4.
+
+7. DROIT APPLICABLE
+
+La présente licence est soumise au droit français.
+
+Fait le 30/08/2026, par Emmanuel GAILLARD.
