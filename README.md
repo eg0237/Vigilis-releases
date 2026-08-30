@@ -11,3 +11,8 @@ Récupérez la dernière version de `Vigilis.exe` depuis la page
 [**Releases**](https://github.com/eg0237/Vigilis-releases/releases).
 
 Application Windows autonome : aucune installation, il suffit de lancer `Vigilis.exe`.
+
+## Licence
+
+Vigilis est distribué sous une licence d'utilisation gratuite réservée à la communauté
+de l'Éducation nationale française. Voir [`LICENSE.txt`](LICENSE.txt) pour le texte complet.
