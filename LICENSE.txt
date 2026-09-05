@@ -72,4 +72,20 @@ sauf révocation notifiée conformément à l'article 4.
 
 La présente licence est soumise au droit français.
 
+8. PROTECTION DES DONNÉES PERSONNELLES (RGPD)
+
+Les Logiciels fonctionnent en local, sur le poste ou l'infrastructure propre de l'utilisateur :
+aucune donnée saisie ou traitée au moyen des Logiciels n'est transmise à l'Auteur, ni hébergée
+par lui. L'Auteur n'a accès à aucune donnée, y compris à caractère personnel, traitée par
+l'utilisateur au moyen des Logiciels.
+
+En conséquence, l'Auteur n'agit pas en qualité de sous-traitant au sens de l'article 28 du
+Règlement (UE) 2016/679 (RGPD) : aucun contrat de sous-traitance (accord de traitement des
+données) n'est requis entre l'Auteur et l'utilisateur au titre de l'utilisation des Logiciels.
+
+Il appartient à l'utilisateur, en sa qualité de responsable de traitement des données qu'il
+saisit ou importe dans les Logiciels, de satisfaire aux obligations qui lui incombent à ce titre
+au regard du RGPD (notamment tenue du registre des traitements, information des personnes
+concernées et détermination de la durée de conservation des données).
+
 Fait le 30/08/2026, par Emmanuel GAILLARD.
