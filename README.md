@@ -14,5 +14,4 @@ Application Windows autonome : aucune installation, il suffit de lancer `Vigilis
 
 ## Licence
 
-Vigilis est distribué sous une licence d'utilisation gratuite réservée à la communauté
-de l'Éducation nationale française. Voir [`LICENSE.txt`](LICENSE.txt) pour le texte complet.
+Vigilis est distribué sous une licence d'utilisation gratuite. Voir [`LICENSE.txt`](LICENSE.txt) pour le texte complet.
